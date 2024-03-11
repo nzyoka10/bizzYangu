@@ -8,6 +8,23 @@ body {
   padding-top: 70px; /* Adjust for fixed navbar */
 }
 
+#my_nav{
+    background: #333;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 2px  4px 8px #f5deb3;
+    color:#fff;
+
+}
+
+#logo{
+    /* text-transform: capitalize; */
+
+    color: wheat;
+    letter-spacing: 0.3rem;
+
+}
+
 .lead{
     font-family: "Ojuju", sans-serif;
 }
