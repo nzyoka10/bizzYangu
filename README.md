@@ -1,5 +1,5 @@
 ## bizzYangu
-
+- Check me out [here](https://nzyoka10.github.io/bizzYangu/)
 bizzYangu is an integrated business management system aimed at optimizing the process of selling items to resellers and consumers through field agents. 
 
 #### Problem Statement
@@ -22,8 +22,8 @@ bizzYangu is an integrated business management system tailored to our specific b
 
 #### Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (React.js) <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="24" height="24"/>
-- **Backend:** Node.js, Express.js <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="24" height="24"/> <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="24" height="24"/>
-- **Database:** MongoDB <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="24" height="24"/>
-- **Other Tools:** Git, GitHub<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="24" height="24"/> <img src="https://img.icons8.com/ios-filled/50/000000/github-2.png" alt="GitHub" width="24" height="24"/>
+- **Frontend:** HTML, CSS, JavaScript (React.js) <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="20" height="20"/>
+- **Backend:** Node.js, Express.js <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="20" height="20"/>
+- **Database:** MongoDB <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="20" height="20"/>
+- **Other Tools:** Git, GitHub<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="20" height="20"/> <img src="https://img.icons8.com/ios-filled/50/000000/github-2.png" alt="GitHub" width="20" height="20"/>
 
