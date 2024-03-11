@@ -8,21 +8,19 @@ body {
   padding-top: 70px; /* Adjust for fixed navbar */
 }
 
-
 #logo{
-    /* text-transform: capitalize; */
-
     color: wheat;
     letter-spacing: 0.3rem;
-
+    font-weight: 400;
 }
 
-#my_nav{
-    color: wheat;
+#logo:hover{
+    border-bottom: 1px solid wheat;
+    border-radius: 14px 13px;
 }
 
-.lead{
-    font-family: "Ojuju", sans-serif;
-    font-size: small;
-    font-style: italic;
+#my_links{
+    color: red;
+
+    padding: 12px 12px;
 }
