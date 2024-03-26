@@ -2,7 +2,7 @@
 
 bizzYangu is an integrated business management system aimed at optimizing the process of selling items to resellers and consumers through field agents. 
 
-- Check me out [here](https://nzyoka10.github.io/bizzYangu/)
+<!-- - Check me out [here](https://nzyoka10.github.io/bizzYangu/) -->
 
 #### Problem Statement
 
