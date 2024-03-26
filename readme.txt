@@ -1,7 +1,7 @@
 SOFTWARE ENGINEERING PROJECT INITIATION
 // 
 // Project Name:   
-// Student Name(s):   
+// Author Name(s):   
 // Date Created:
 // Last Modified:   
 // 
