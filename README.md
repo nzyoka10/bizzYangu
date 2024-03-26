@@ -6,6 +6,8 @@ This project aims to develop an online platform for water utility companies to s
 - Additionally, the platform will include robust data management capabilities to securely store customer information and enable efficient customer relationship management. 
 - Regular updates and enhancements will ensure the platform remains responsive to user needs and regulatory requirements, providing a seamless and convenient experience for both customers and administrators.
 
+```Check out project initiation``` [here](https://docs.google.com/spreadsheets/d/1Lg84LbD19u3VzckyPO2TK6dhdhpuMrYFAwkyLlGspgg/edit?usp=sharing)
+
 
 ##### Features:
 - User-friendly interface for accounts registration and management.
