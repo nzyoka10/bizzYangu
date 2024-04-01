@@ -10,7 +10,8 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    animation: changeBackground 10s infinite;
+    animation: changeBackground 15s infinite;
+    
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
