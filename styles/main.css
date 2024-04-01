@@ -62,31 +62,31 @@
     padding: 10px 18px;
     border-radius: 15px;
     font-size: 16px;
-    color: #fff;
+    color: #f5f5f5;
     text-decoration: none;
     text-transform: capitalize;
 }
 
 .navbar ol li a{
-    border: 1px inset #2d88d5;
+    border: 2px inset #2d88d5;
     background-color: #08a7cf29;
     margin-right: 12px;
 }
 
 .navbar ul li a:hover{
-    color: whitesmoke;
+    color: #f5f5f5;
     border: 1px inset #2d88d5;
     background-color: #08a7cf29;
 }
 
 .navbar ol li a:hover{
-    background-color: #3aa8c4c5;
+    border: transparent;
+    color: #c4edfb;
+    background-color: #5fc8e28e;
 }
 
 .navbar h1{
-    /* color: #fff; */
-    /* color: #99b9f4; */
-    color: whitesmoke;
+    color: #f5f5f5;
     font-size: 35px;
     font-weight: 700;
     text-transform:capitalize;
@@ -108,7 +108,7 @@
 
 .content h1{
     font-size: 45px;
-    color: #fff;
+    color: #f5f5f5;
     font-weight: 650;
     text-transform: capitalize;
 
@@ -117,7 +117,6 @@
 
 .content p{
     font-size: 16px;
-    /* color: #fff; */
 
     color: tomato;
     text-transform: uppercase;
@@ -139,9 +138,10 @@
     background-color: #08a7cf29;
     border: 1px solid #2d88d5;
     border-radius: 10px;
-    color: #fff;
+    color: #33c4e8d5;
 }
 
 .content a:hover{
-    background-color: #2d88d5;
+    background-color: #2d87d589;
+    color: whitesmoke;
 }
